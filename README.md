@@ -3,20 +3,20 @@ my project
 # Program make a simple calculator
 
 # This function adds two numbers
-def add(x, y):
-    return x + y
+def add(x, z):
+    return x + z
 
 # This function subtracts two numbers
-def subtract(x, y):
-    return x - y
+def subtract(x, z):
+    return x - z
 
 # This function multiplies two numbers
-def multiply(x, y):
-    return x * y
+def multiply(x, z):
+    return x * z
 
 # This function divides two numbers
-def divide(x, y):
-    return x / y
+def divide(x, z):
+    return x / z
 
 
 print("Select operation.")
